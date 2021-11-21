@@ -12,7 +12,7 @@ body {
 /* COVER */
 .cover {
   background: #ECE3F0;
-  background-image: url("/images/black-linen.png");
+  background-image: url("/Final-Project/images/black-linen.png");
   height: 100vh;
 }
 
@@ -191,7 +191,7 @@ h1 {
 
 .subpage {
   background: beige;
-  background-image: url("/images/asfalt-light.png");
+  background-image: url("/Final-Project/images/asfalt-light.png");
   width: 100vw;
 }
 
